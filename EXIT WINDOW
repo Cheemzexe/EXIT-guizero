@@ -1,0 +1,5 @@
+def exit():
+	info("Exit","Leaving...")
+	sign_up.hide() #hides the menu 
+	review_W.hide() #hides the menu
+	app.hide() #hides the menu 
